@@ -708,7 +708,7 @@ export const layersStylePropFn = {
   coal_ash: {
     fillColor: propertyValue => propertyValue,
   },
-  burnables: {
+  burnables3: {
     fillColor: propertyValue => propertyValue,
     radius: propertyValue => getRadiusValue(propertyValue, 0.2, 3, 26),
   },
